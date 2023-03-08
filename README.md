@@ -17,7 +17,7 @@ Pré-requisitos
 
 Como utilizar
 - Faça um clone do repositório para sua máquina local.
-git clone https://github.com/seu-usuario/aulas-automacao-ruby.git
+git clone https://github.com/TchescoSemdo/Automa-o-com-Rspec.git
 
 - Acesse a pasta do projeto.
 cd aulas-automacao-ruby
